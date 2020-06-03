@@ -1,7 +1,113 @@
+h1 {
+  margin: 20px 0px 0px 20px;
+}
 li {
-  color: blue
+  border: 5px solid black;
+  margin: 0px 400px 10px 0px;
+  padding: 5px 10px 5px 10px;
 }
 
 li:hover {
   text-decoration: underline;
-}~~
+  background-color: yellow;
+}
+
+#java-def {
+  display: none;
+  color: red;
+}
+
+#opera-def {
+  display: none;
+  color: red;
+}
+
+#vari-def {
+  display: none;
+  color: red;
+}
+
+#namecon-def {
+  display: none;
+  color: red;
+}
+
+#func-def {
+  display: none;
+  color: red;
+}
+
+#meth-def {
+  display: none;
+  color: red;
+}
+
+#argu-def {
+  display: none;
+  color: red;
+}
+
+#argu-def {
+  display: none;
+  color: red;
+}
+
+#para-def {
+  display: none;
+  color: red;
+}
+
+#return-def {
+  display: none;
+  color: red;
+}
+
+#chain-def {
+  display: none;
+  color: red;
+}
+
+#strings-def {
+  display: none;
+  color: red;
+}
+
+#bool-def {
+  display: none;
+  color: red;
+}
+
+#undef-def {
+  display: none;
+  color: red;
+}
+
+#nan-def {
+  display: none;
+  color: red;
+}
+
+#null-def {
+  display: none;
+  color: red;
+}
+
+#alert-def {
+  display: none;
+  color: red;
+}
+
+#comm-def {
+  display: none;
+  color: red;
+}
+
+#jquery-def {
+  display: none;
+  color: red;
+}
+
+#attrib-def {
+  display: none;
+  color: red;
+}
